@@ -22,7 +22,3 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30" height="30"/> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>
 </div>
-
-###
-
-![snake gif](https://github.com/gabriel27sw/gabriel27sw/blob/output/github-contribution-grid-snake.svg)
